@@ -1,4 +1,4 @@
-my_technology_radar Index
+my personal technology radar
 ===================
 
 
