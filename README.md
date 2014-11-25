@@ -59,3 +59,4 @@ my personal technology radar
 ### IRC Client
  - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
  - https://kiwiirc.com/docs/installing/config - Webbased IRC channel
+ - https://www.irccloud.com/ 
