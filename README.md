@@ -8,7 +8,9 @@ my personal technology radar
 ### Docker: 
 - https://github.com/jwilder/docker-gen 
 - https://github.com/GoogleCloudPlatform/kubernetes 
+- https://www.shippable.com - CI server with docker support and builds docker containers with results.
 
+## Data Engineering
 
 ### Data Science: 
 - https://github.com/lytics/anomalyzer
