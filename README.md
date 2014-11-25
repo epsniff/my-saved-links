@@ -12,10 +12,17 @@ my personal technology radar
 
 ## Data Engineering
 
+
 ### Data Science: 
 - https://github.com/lytics/anomalyzer
 - https://github.com/drewlanenga/multibayes 
+- https://bitbucket.org/tebeka/snowball/src - Snowball stemmer in Go
+- https://github.com/reiver/go-porterstemmer - porter stemmer in Go
 
+### Graph Databases: 
+- https://github.com/google/cayley
+- https://github.com/orientechnologies/orientdb
+- http://thinkaurelius.github.io/titan/ 
 
 ## Random
 
