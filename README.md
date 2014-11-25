@@ -12,3 +12,9 @@ my personal technology radar
 ### Data Science: 
 - https://github.com/lytics/anomalyzer
 - https://github.com/drewlanenga/multibayes 
+
+
+
+
+### IRC Client
+ - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
