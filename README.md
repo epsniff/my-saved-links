@@ -1,7 +1,7 @@
 my personal technology radar
 ===================
 
-## Dev Ops
+# Dev Ops
 ### Log Management 
 - https://github.com/lytics/sshtail - tails a log file from multiple machines 
 
@@ -13,7 +13,7 @@ my personal technology radar
 ## Distributed/Infrastructure Engineering
 - https://github.com/lytics/metafora
 
-## Data Engineering
+# Data Engineering
 
 ### Data Science: 
 - https://github.com/lytics/anomalyzer
@@ -35,12 +35,12 @@ my personal technology radar
 
 
 
-#### Distributed Filesystems 
+### Distributed Filesystems 
 - HDFS :p 
 - https://github.com/pachyderm-io/pfs - docker based distributed filesystem. 
 - https://code.google.com/p/weed-fs/ 
 
-## Random
+# Random
 - https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
 
 ### Go Scripting engines
