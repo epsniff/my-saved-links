@@ -44,16 +44,17 @@ my personal technology radar
 - https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
 
 ### Go Scripting engines
+
 #### Embeddable 
 - https://github.com/mattn/anko - Go like scripting lang.
 - https://github.com/robertkrimen/otto - javascript engine
-- 
+
 #### Bindings 
-- https://github.com/sbinet/go-python - 
+- https://github.com/sbinet/go-python 
 
 ### Random Go Stuff
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
-- 
+
 
 ### IRC Client
  - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
