@@ -5,7 +5,7 @@ my personal technology radar
 ### Log Management 
 - https://github.com/lytics/sshtail - tails a log file from multiple machines 
 
-### Docker: 
+### Docker, Deployment and cluster management: 
 - https://github.com/jwilder/docker-gen 
 - https://github.com/GoogleCloudPlatform/kubernetes 
 - https://www.shippable.com - CI server with docker support and builds docker containers with results.
