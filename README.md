@@ -10,8 +10,10 @@ my personal technology radar
 - https://github.com/GoogleCloudPlatform/kubernetes 
 - https://www.shippable.com - CI server with docker support and builds docker containers with results.
 
-## Data Engineering
+## Distributed/Infrastructure Engineering
+- https://github.com/lytics/metafora
 
+## Data Engineering
 
 ### Data Science: 
 - https://github.com/lytics/anomalyzer
@@ -31,7 +33,27 @@ my personal technology radar
 - https://code.google.com/p/leveldb-go/source/checkout
 - https://github.com/HouzuoGuo/tiedot 
 
+
+
+#### Distributed Filesystems 
+- HDFS :p 
+- https://github.com/pachyderm-io/pfs - docker based distributed filesystem. 
+- https://code.google.com/p/weed-fs/ 
+
 ## Random
+- https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
+
+### Go Scripting engines
+#### Embeddable 
+- https://github.com/mattn/anko - Go like scripting lang.
+- https://github.com/robertkrimen/otto - javascript engine
+- 
+#### Bindings 
+- https://github.com/sbinet/go-python - 
+
+### Random Go Stuff
+- https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
+- 
 
 ### IRC Client
  - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
