@@ -54,7 +54,7 @@ my personal technology radar
 
 ### Random Go Stuff
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
-
+- http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf proposed Go scheduler changes. 
 
 ### IRC Client
  - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
