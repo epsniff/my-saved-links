@@ -14,6 +14,10 @@ my personal technology radar
 - https://github.com/lytics/metafora
 
 # Data Engineering
+- Raft consensus algorithm. 
+   - Paper:  http://ramcloud.stanford.edu/raft.pdf  
+   - Animated walk through of how raft works:http://thesecretlivesofdata.com/raft/
+- Streaming Raft as implmented in influxDB: https://github.com/influxdb/influxdb/pull/903
 
 ### Data Science: 
 - https://github.com/lytics/anomalyzer
@@ -21,7 +25,12 @@ my personal technology radar
 - https://bitbucket.org/tebeka/snowball/src - Snowball stemmer in Go
 - https://github.com/reiver/go-porterstemmer - porter stemmer in Go
 
-### Graph Databases: 
+### Data Storeage: 
+
+##### Time Series Database
+- http://influxdb.com/
+- 
+##### Graph Databases
 - https://github.com/google/cayley
 - https://github.com/orientechnologies/orientdb
 - http://thinkaurelius.github.io/titan/ 
