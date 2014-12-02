@@ -24,6 +24,7 @@ my personal technology radar
 - https://github.com/drewlanenga/multibayes 
 - https://bitbucket.org/tebeka/snowball/src - Snowball stemmer in Go
 - https://github.com/reiver/go-porterstemmer - porter stemmer in Go
+- https://github.com/dgryski/go-topk - ktop in go Or https://gowalker.org/github.com/cloudflare/golibs/spacesaving which is topk using the space-saving algorithm. 
 
 ### Data Storeage: 
 
