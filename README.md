@@ -28,6 +28,7 @@ my personal technology radar
 ### Data Storeage: 
 
 ##### Time Series Database
+
 - http://influxdb.com/
 - 
 ##### Graph Databases
