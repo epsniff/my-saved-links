@@ -30,8 +30,9 @@ my personal technology radar
 
 ##### Time Series Database
 
-- http://influxdb.com/
-- 
+- http://influxdb.com/ - time series database, it uses streaming raft for consensus
+
+
 ##### Graph Databases
 - https://github.com/google/cayley
 - https://github.com/orientechnologies/orientdb
