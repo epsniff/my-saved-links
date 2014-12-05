@@ -2,6 +2,9 @@ my personal technology radar
 ===================
 
 # Dev Ops
+
+http://roc.cs.berkeley.edu/papers/recursive_restartability.pdf
+
 ### Log Management 
 - https://github.com/lytics/sshtail - tails a log file from multiple machines 
 
