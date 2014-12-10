@@ -1,18 +1,6 @@
 my personal technology radar
 ===================
 
-# Dev Ops
-
-http://roc.cs.berkeley.edu/papers/recursive_restartability.pdf
-
-### Log Management 
-- https://github.com/lytics/sshtail - tails a log file from multiple machines 
-
-### Docker, Deployment and Cluster management: 
-- https://github.com/jwilder/docker-gen 
-- https://github.com/GoogleCloudPlatform/kubernetes 
-- https://www.shippable.com - CI server with docker support and builds docker containers with results.
-
 ## Distributed/Infrastructure Engineering
 - https://github.com/lytics/metafora
 
