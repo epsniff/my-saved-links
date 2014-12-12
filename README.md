@@ -11,8 +11,9 @@ my personal technology radar
 - Streaming Raft as implmented in influxDB: https://github.com/influxdb/influxdb/pull/903
 
 ### Data Science: 
-- https://github.com/lytics/anomalyzer
-- https://github.com/drewlanenga/multibayes 
+- https://github.com/harrisj/punkt - sentence tokenizer in Go
+- https://github.com/lytics/anomalyzer - Probabilistic anomaly detection in Go. 
+- https://github.com/drewlanenga/multibayes - Multiclass naive Bayesian document classification in Go
 - https://bitbucket.org/tebeka/snowball/src - Snowball stemmer in Go
 - https://github.com/reiver/go-porterstemmer - porter stemmer in Go
 - https://github.com/dgryski/go-topk - ktop in go Or https://gowalker.org/github.com/cloudflare/golibs/spacesaving which is topk using the space-saving algorithm. 
