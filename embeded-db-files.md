@@ -4,8 +4,9 @@
 - https://github.com/customerio/esdb esdb - Event-stream flat file database - Immutable storage for timestamped event streams
 - https://github.com/benbjohnson/bolt - Bolt is good for read intensive workloads. Sequential write performance is also fast but random writes can be slow. 
    - example of using boltdb and bloomfilter as a database : https://github.com/AndreasBriese/ipLocator/blob/master/ipLocator.go 
-- RocksDB - example: https://github.com/cockroachdb/cockroach/blob/8a4f06a6d04825a683b86bbd361ddb9094691629/storage/engine/rocksdb.go
-- https://code.google.com/p/leveldb-go/source/checkout
+- RocksDB - https://github.com/facebook/rocksdb 
+   - example: https://github.com/cockroachdb/cockroach/blob/8a4f06a6d04825a683b86bbd361ddb9094691629/storage/engine/rocksdb.go
+- https://code.google.com/p/leveldb-go/source/checkout - leveldb
 - https://github.com/HouzuoGuo/tiedot 
 
 
