@@ -18,7 +18,9 @@ Deployment Infrastructure
 * Deployment
   * [Goship](https://github.com/gengo/goship) Simple deployment tool similar to Jenkins/Travis written in Go.  Also has a [fantastic logo!](https://camo.githubusercontent.com/33a7d9a138ac73ece82dee977c216eb13dffc984/687474703a2f2f692e696d6775722e636f6d2f524c766b486b612e706e67)
 
-http://roc.cs.berkeley.edu/papers/recursive_restartability.pdf
+* Blogs, Research and Methods
+  * http://roc.cs.berkeley.edu/papers/recursive_restartability.pdf
+  * http://blog.appsdeck.eu/post/105609534953/graceful-server-restart-with-go
 
 ### Log Management 
 - https://github.com/lytics/sshtail - tails a log file from multiple machines 
