@@ -1,5 +1,9 @@
 
+https://github.com/gdamore/mangos - zmq like messaging libary in pure go.
 
+https://github.com/glycerine/go-capnproto - capnproto serialization in go. 
+
+https://github.com/google/flatbuffers/tree/master/go - flatbuffer serialization
 
 http://bazil.org/doc/ - Go FUSE filesystem framework.
 
