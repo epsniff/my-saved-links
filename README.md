@@ -17,6 +17,7 @@ my personal technology radar
 - https://bitbucket.org/tebeka/snowball/src - Snowball stemmer in Go
 - https://github.com/reiver/go-porterstemmer - porter stemmer in Go
 - https://github.com/dgryski/go-topk - ktop in go Or https://gowalker.org/github.com/cloudflare/golibs/spacesaving which is topk using the space-saving algorithm. 
+- https://github.com/bobhancock/goxmeans - xmeans
 
 ### Data Storeage: 
 https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that uses raft and rocksdb.  Supports range scans and transactions. 
