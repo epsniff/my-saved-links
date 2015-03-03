@@ -11,6 +11,7 @@ https://github.com/araddon/qlparser - Go parser.
 
 http://clipperhouse.github.io/gen/ - Go Generator example
 
+https://github.com/apcera/gnatsd -- Go nats server.  according benchmarks is almost as fast as brokerless message systems like zmq.
 
 https://github.com/blevesearch/bleve - Go Full Text indexing libary 
 
