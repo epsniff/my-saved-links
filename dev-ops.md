@@ -26,6 +26,10 @@ Deployment Infrastructure
   * http://roc.cs.berkeley.edu/papers/recursive_restartability.pdf
   * http://blog.appsdeck.eu/post/105609534953/graceful-server-restart-with-go
 
+### Key Management 
+- https://github.com/cloudflare/redoctober - Go server for two-man rule style file encryption and decryption.
+- https://github.com/hbs/oss - 
+
 ### Log Management 
 - https://github.com/lytics/sshtail - tails a log file from multiple machines 
 
