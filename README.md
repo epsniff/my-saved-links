@@ -1,5 +1,8 @@
-my personal technology radar
+My personal technology radar
 ===================
+I use to keep all my links on emerging technology, UX, dev-ops and papers in Google Docs.  While this was helpful for me, it wasn't useful for anyone else trying to do the same research I had already done.  So Im experimenting with moving those links into a Github repo.  
+
+Now that this stuff is public facing though, I should really replace my shorthand notes with better discriptions :p.
 
 ## Distributed/Infrastructure Engineering
 - https://github.com/lytics/metafora
