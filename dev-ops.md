@@ -3,6 +3,10 @@
 ### Tmux cheat sheet
 https://gist.github.com/MohamedAlaa/2961058
 
+### Reverse/Service Proxies
+- http://www.haproxy.org/
+- http://nginx.com/resources/admin-guide/reverse-proxy/
+- https://github.com/vektra/templar
 
 Deployment Infrastructure 
 ============================
