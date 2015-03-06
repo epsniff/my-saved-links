@@ -4,6 +4,8 @@ I use to keep all my links on emerging technology, UX, dev-ops and papers in Goo
 
 Now that this stuff is public facing though, I should really replace my shorthand notes with better discriptions :p.
 
+Github octocat images: https://octodex.github.com/
+
 ## Distributed/Infrastructure Engineering
 - https://github.com/lytics/metafora
 
