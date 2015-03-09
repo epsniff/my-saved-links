@@ -1,5 +1,7 @@
 # Dev Ops
 
+http://explainshell.com/explain?cmd=rsync+-p+--chmod%3D%2Brwx+-e+%22ssh+-i+userserver.pem%22+--copy-unsafe-links+-rz+user%40server%3A~%2F+%2Fdb_backups%2Fwww%2F
+
 ### Tmux cheat sheet
 https://gist.github.com/MohamedAlaa/2961058
 
