@@ -1,2 +1,2 @@
 
-http://queue.acm.org/detail.cfm?id=2745385 - distribued systems.
+http://queue.acm.org/detail.cfm?id=2745385 - "distribued systems: There is No Now".
