@@ -23,4 +23,10 @@ http://godoc.org/github.com/codahale/hdrhistogram - Package hdrhistogram provide
 
 https://github.com/PuerkitoBio/purell - simple go lib to normlize urls
 
+## SMTP Server in go
+https://github.com/flashmob/go-guerrilla
+https://github.com/bradfitz/go-smtpd
+
+
+
 https://docs.google.com/document/d/1wmjrocXIWTr1JxU-3EQBI6BK6KgtiFArkG47XK73xIQ/preview?sle=true# - Go 1.5 GC changes 
