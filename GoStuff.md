@@ -20,6 +20,7 @@ https://github.com/jmoiron/sqlx - ORM like lib for golang
 
 http://godoc.org/github.com/codahale/hdrhistogram - Package hdrhistogram provides an implementation of Gil Tene's HDR Histogram data structure. The HDR Histogram allows for fast and accurate analysis of the extreme ranges of data with non-normal distributions, like latency.
 
+https://github.com/go-stack/stack/blob/344948d226e07e93dcda17055d9d78252e6d2c3f/stack.go#L48 - Example of using a custom string formater 
 
 https://github.com/PuerkitoBio/purell - simple go lib to normlize urls
 
