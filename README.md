@@ -23,6 +23,7 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/reiver/go-porterstemmer - porter stemmer in Go
 - https://github.com/dgryski/go-topk - ktop in go Or https://gowalker.org/github.com/cloudflare/golibs/spacesaving which is topk using the space-saving algorithm. 
 - https://github.com/bobhancock/goxmeans - xmeans
+- http://blog.sense.io/introducing-sense-a-platform-for-data-science/ 
 
 ### Data Storeage: 
 https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that uses raft and rocksdb.  Supports range scans and transactions. 
@@ -44,6 +45,7 @@ https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that use
 
 # Random
 - https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
+- 
 
 ### Go Scripting engines
 
