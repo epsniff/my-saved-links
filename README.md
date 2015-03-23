@@ -30,10 +30,17 @@ Github octocat images: https://octodex.github.com/
 https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that uses raft and rocksdb.  Supports range scans and transactions. 
 
 ##### Time Series Database
-
 - http://influxdb.com/ - time series database, it uses streaming raft for consensus
 
-
+### Data Visualization:
+- D3.js
+   - learning d3
+      - https://github.com/mbostock/d3/wiki/Tutorials
+      - http://www.recursion.org/d3-for-mere-mortals/  
+      - http://www.jeromecukier.net/blog/2012/09/04/getting-to-hello-world-with-d3/
+      - http://bost.ocks.org/mike/
+      - http://shop.oreilly.com/product/0636920025429.do - book
+- https://code.google.com/p/plotinum/wiki/Examples - Go based 
 ##### Graph Databases
 - https://github.com/google/cayley
 - https://github.com/orientechnologies/orientdb
