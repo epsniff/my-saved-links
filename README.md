@@ -27,7 +27,10 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/skelterjohn/go.matrix - a good matrix math package for Go.
 
 ### Data Storeage: 
-https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that uses raft and rocksdb.  Supports range scans and transactions. 
+
+- https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that uses raft and rocksdb.  Supports range scans and transactions. 
+- Cassandra stuff : 
+   - https://github.com/hailocab/ctop - quick overview of cassandra's state.
 
 ##### Time Series Database
 - http://influxdb.com/ - time series database, it uses streaming raft for consensus
@@ -52,19 +55,23 @@ https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that use
 - https://code.google.com/p/weed-fs/ 
 
 # Random
+
 - https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
-- 
+
 
 ### Go Scripting engines
 
 #### Embeddable 
+
 - https://github.com/mattn/anko - Go like scripting lang.
 - https://github.com/robertkrimen/otto - javascript engine
 
 #### Bindings 
+
 - https://github.com/sbinet/go-python 
 
 ### Random Go Stuff
+
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
 - http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf proposed Go scheduler changes. 
 - https://github.com/pquerna/ffjson faster json using structs.  Requires an extra build step.
