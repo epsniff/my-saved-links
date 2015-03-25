@@ -1,3 +1,5 @@
+http://peter.bourgon.org/go-in-production/ - using go in production.
+
 
 https://github.com/gdamore/mangos - zmq like messaging libary in pure go.
 
