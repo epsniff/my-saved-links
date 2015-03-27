@@ -18,6 +18,7 @@ https://github.com/apcera/gnatsd -- Go nats server.  according benchmarks is alm
 
 https://github.com/blevesearch/bleve - Go Full Text indexing libary 
 
+https://github.com/jpillora/chisel - allows you to use an HTTP connection as a TCP socket, for tunneling through a firewall. 
 
 https://github.com/jmoiron/sqlx - ORM like lib for golang
 
