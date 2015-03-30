@@ -27,7 +27,7 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/skelterjohn/go.matrix - a good matrix math package for Go.
 
 ### Data Storeage: 
-
+- http://www.aerospike.com/when-to-use-aerospike-vs-cassandra/ - aerospike a fast in memory database, simple to setup.  Seems to be a C,P CAP db. 
 - https://www.youtube.com/watch?v=jI3LiKhqN0E - Cockroachdb spanner port, that uses raft and rocksdb.  Supports range scans and transactions. 
 - Cassandra stuff : 
    - https://github.com/hailocab/ctop - quick overview of cassandra's state.
