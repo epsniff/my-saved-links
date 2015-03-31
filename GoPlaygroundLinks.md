@@ -7,3 +7,5 @@
 - Max/Min ints : http://play.golang.org/p/ecfmA0DwLk
 - print stack trace : http://play.golang.org/p/wG_GfMDKdl 
 - copy byte slices https://play.golang.org/p/5oW5R5VT5Z
+
+- arbitrary json, anonymous structs, union like structs :) : https://play.golang.org/p/V0ulBibLGe 
