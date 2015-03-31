@@ -7,5 +7,5 @@
 - Max/Min ints : http://play.golang.org/p/ecfmA0DwLk
 - print stack trace : http://play.golang.org/p/wG_GfMDKdl 
 - copy byte slices https://play.golang.org/p/5oW5R5VT5Z
-
+- weird go behaviour [ https://play.golang.org/p/lsPxv0QxWy ] if you have a blocking write in a select{} and some other valid "case" occurs while your write is waiting. The write is just dropped.
 - arbitrary json, anonymous structs, union like structs :) : https://play.golang.org/p/V0ulBibLGe 
