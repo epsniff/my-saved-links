@@ -34,6 +34,7 @@ Github octocat images: https://octodex.github.com/
 - Cassandra stuff : 
    - https://github.com/hailocab/ctop - quick overview of cassandra's state.
 
+- http://www.hyflow.org/hyflow-go/ - need to read more about it.. looks cool
 - Bleve https://github.com/blevesearch/bleve - Go Full Text indexing libary 
 - sqlx https://github.com/jmoiron/sqlx - ORM like lib for golang
 
