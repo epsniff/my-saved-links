@@ -15,7 +15,7 @@ Github octocat images: https://octodex.github.com/
    - Animated walk through of how raft works:http://thesecretlivesofdata.com/raft/
 - Streaming Raft as implmented in influxDB: https://github.com/influxdb/influxdb/pull/903
 
-### Data Science: 
+##### Data Science: 
 - https://github.com/harrisj/punkt - sentence tokenizer in Go
 - https://github.com/lytics/anomalyzer - Probabilistic anomaly detection in Go. 
 - https://github.com/drewlanenga/multibayes - Multiclass naive Bayesian document classification in Go
@@ -26,7 +26,7 @@ Github octocat images: https://octodex.github.com/
 - http://blog.sense.io/introducing-sense-a-platform-for-data-science/ 
 - https://github.com/skelterjohn/go.matrix - a good matrix math package for Go.
 
-### Data Storeage: 
+##### Data Storeage: 
 - Aerospike: a fast in memory database, simple to setup.  Seems to be a C,P CAP db.  It also supports a hybrid mode were only indexes are in-memory and data is stored on disk.
     - https://www.aerospike.com/docs/client/go/usage/ldt/ldt.html
     - http://www.aerospike.com/when-to-use-aerospike-vs-cassandra/ 
@@ -34,10 +34,25 @@ Github octocat images: https://octodex.github.com/
 - Cassandra stuff : 
    - https://github.com/hailocab/ctop - quick overview of cassandra's state.
 
-##### Time Series Database
-- http://influxdb.com/ - time series database, it uses streaming raft for consensus
+- Bleve https://github.com/blevesearch/bleve - Go Full Text indexing libary 
+- sqlx https://github.com/jmoiron/sqlx - ORM like lib for golang
 
-### Data Visualization:
+##### Time Series 
+- http://influxdb.com/ - time series database, it uses streaming raft for consensus
+- http://godoc.org/github.com/codahale/hdrhistogram - Package hdrhistogram provides an implementation of Gil Tene's HDR Histogram data structure. The HDR Histogram allows for fast and accurate analysis of the extreme ranges of data with non-normal distributions, like latency.
+- https://github.com/rcrowley/go-metrics
+-
+##### Graph Databases
+- https://github.com/google/cayley
+- https://github.com/orientechnologies/orientdb
+- http://thinkaurelius.github.io/titan/ 
+
+##### Distributed Filesystems 
+- HDFS :p 
+- https://github.com/pachyderm-io/pfs - docker based distributed filesystem. 
+- https://code.google.com/p/weed-fs/ 
+
+# Data Visualization:
 - D3.js
    - learning d3
       - https://github.com/mbostock/d3/wiki/Tutorials
@@ -46,15 +61,6 @@ Github octocat images: https://octodex.github.com/
       - http://bost.ocks.org/mike/
       - http://shop.oreilly.com/product/0636920025429.do - book
 - https://code.google.com/p/plotinum/wiki/Examples - Go based 
-##### Graph Databases
-- https://github.com/google/cayley
-- https://github.com/orientechnologies/orientdb
-- http://thinkaurelius.github.io/titan/ 
-
-### Distributed Filesystems 
-- HDFS :p 
-- https://github.com/pachyderm-io/pfs - docker based distributed filesystem. 
-- https://code.google.com/p/weed-fs/ 
 
 # Random
 
@@ -73,10 +79,9 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/sbinet/go-python 
 
 ### Random Go Stuff
-
+- https://github.com/PuerkitoBio/purell - simple go lib to normlize urls
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
-- http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf proposed Go scheduler changes. 
-- https://github.com/pquerna/ffjson faster json using structs.  Requires an extra build step.
+- https://github.com/go-stack/stack/blob/344948d226e07e93dcda17055d9d78252e6d2c3f/stack.go#L48 - Example of using a custom string formater 
 
 ### IRC Client
  - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
