@@ -9,6 +9,7 @@
 - https://code.google.com/p/leveldb-go/source/checkout - leveldb
 - https://github.com/HouzuoGuo/tiedot 
 - https://github.com/couchbase/forestdb 
+- https://github.com/cznic/ql - pure go embedded sql
 - https://github.com/siddontang/go-tokuft/tree/master/tokuft
    - http://highscalability.com/blog/2014/8/6/tokutek-white-paper-a-comparison-of-log-structured-merge-lsm.html
    - https://github.com/Tokutek
