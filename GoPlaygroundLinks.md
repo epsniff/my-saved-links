@@ -5,6 +5,7 @@
 - golang timezone conversion : http://play.golang.org/p/_n9SkhiiXK - http://golang.org/pkg/time/#pkg-constants format options 
 
 - Max/Min ints : http://play.golang.org/p/ecfmA0DwLk
+- compare floats by precision you care  http://play.golang.org/p/7VP_aDOjwG
 - print stack trace : http://play.golang.org/p/wG_GfMDKdl 
 - copy byte slices https://play.golang.org/p/5oW5R5VT5Z
 - weird go behaviour [ https://play.golang.org/p/lsPxv0QxWy ] if you have a blocking write in a select{} and some other valid "case" occurs while your write is waiting. The write is just dropped.
