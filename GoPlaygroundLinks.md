@@ -3,7 +3,7 @@
 - Prioity Queue using Heap : http://play.golang.org/p/2eDDotu4bn
 - rate limit requests : http://play.golang.org/p/1B4fnxbi6w
 - golang timezone conversion : http://play.golang.org/p/_n9SkhiiXK - http://golang.org/pkg/time/#pkg-constants format options 
-
+- Counting Semaphore and request throttling : https://play.golang.org/p/Rj24vcWhnp
 - Max/Min ints : http://play.golang.org/p/ecfmA0DwLk
 - compare floats by precision you care  http://play.golang.org/p/7VP_aDOjwG
 - print stack trace : http://play.golang.org/p/wG_GfMDKdl 
