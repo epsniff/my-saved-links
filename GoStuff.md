@@ -22,11 +22,11 @@ http://bazil.org/doc/ - Go FUSE filesystem framework.
 - https://github.com/araddon/qlparser - Go parser. 
 
 - http://clipperhouse.github.io/gen/ - Go Generator example
+- design patterns in Go https://github.com/monochromegane/go_design_pattern
 
 #### SMTP Server in go
 - https://github.com/flashmob/go-guerrilla
 - https://github.com/bradfitz/go-smtpd
-
 
 #### Future Golang changes. 
 
