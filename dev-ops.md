@@ -26,6 +26,7 @@ Deployment Infrastructure
   * [Mesos/Marathon] @See below in Task Distribution frameworks.  
   * [confd](https://github.com/kelseyhightower/confd) - writes config files out of consul or etcd
 * Deployment
+  * [goauto] (https://github.com/dshills/goauto) - scripted go builds with file watching, all pure go.
   * [Goship](https://github.com/gengo/goship) Simple deployment tool similar to Jenkins/Travis written in Go.  Also has a [fantastic logo!](https://camo.githubusercontent.com/33a7d9a138ac73ece82dee977c216eb13dffc984/687474703a2f2f692e696d6775722e636f6d2f524c766b486b612e706e67)
 
 * Blogs, Research and Methods
