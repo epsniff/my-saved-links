@@ -1,3 +1,5 @@
+- go in a browser https://github.com/gopherjs/gopherjs
+
 ### Guides
 - http://peter.bourgon.org/go-in-production/ - using go in production.
 - http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf proposed Go scheduler changes. 
