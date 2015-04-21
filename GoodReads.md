@@ -1,4 +1,6 @@
 
+https://aphyr.com/posts/313-strong-consistency-models - consistency models
+
 http://queue.acm.org/detail.cfm?id=2745385 - "distribued systems: There is No Now".
 
 http://www.scs.stanford.edu/~dm/ - anything he has linked :p
