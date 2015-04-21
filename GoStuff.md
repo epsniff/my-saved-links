@@ -7,6 +7,11 @@ https://github.com/derekparker/delve ( this one is pretty good )
 ### go in a browser 
 https://github.com/gopherjs/gopherjs
 
+### CLI/Terminal helpers
+https://github.com/alecthomas/kingpin - command line parsing
+https://github.com/gonuts/commander - command line parsing
+
+https://github.com/peterh/liner - interactive helpers, like vim.
 
 ### Guides
 - http://peter.bourgon.org/go-in-production/ - using go in production.
