@@ -1,8 +1,11 @@
-go debugger http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/ https://github.com/mailgun/godebug
+### go debugger 
+http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/ https://github.com/mailgun/godebug
+https://github.com/derekparker/delve ( this one is pretty good )
 
-go debugger https://github.com/derekparker/delve ( this one is pretty good )
+### 
 
-- go in a browser https://github.com/gopherjs/gopherjs
+### go in a browser 
+https://github.com/gopherjs/gopherjs
 
 
 ### Guides
