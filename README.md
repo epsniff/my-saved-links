@@ -83,6 +83,9 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/PuerkitoBio/purell - simple go lib to normlize urls
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
 - https://github.com/go-stack/stack/blob/344948d226e07e93dcda17055d9d78252e6d2c3f/stack.go#L48 - Example of using a custom string formater 
+- https://github.com/nsf/termbox-go - for creating ascii termials Angband anyone?
+   - https://code.google.com/p/termbox/  same thing but not pure go
+- https://github.com/gizak/termui - terminal graphics and data visulization.s 
 
 ### IRC Client
  - http://ubuntuforums.org/showthread.php?t=1010780 - IRC is still the best way to talk shop.
