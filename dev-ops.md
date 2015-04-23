@@ -15,7 +15,6 @@ Deployment Infrastructure
 * [Docker](https://www.docker.com/) - container tooling
   * [Fig](http://www.fig.sh/) - YAML+tool glue to create groups of containers
   * [docker-gen](https://github.com/jwilder/docker-gen) - tool to render config templates based on containers (e.g. log rotation)
-  * [Gaudi](https://github.com/marmelab/gaudi) similar to Marathon, it links docker images together over a grid of machines.  It has a very neat UI for linking them together. 
   * [docker-gen] https://github.com/jwilder/docker-gen 
   * [kubernetes] https://github.com/GoogleCloudPlatform/kubernetes 
      * [Borg the predecessor to Kubernetes] http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html &  https://research.google.com/pubs/pub43438.html
