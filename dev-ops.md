@@ -18,6 +18,7 @@ Deployment Infrastructure
   * [Gaudi](https://github.com/marmelab/gaudi) similar to Marathon, it links docker images together over a grid of machines.  It has a very neat UI for linking them together. 
   * [docker-gen] https://github.com/jwilder/docker-gen 
   * [kubernetes] https://github.com/GoogleCloudPlatform/kubernetes 
+     * [Borg the predecessor to Kubernetes] http://kubernetesio.blogspot.com/2015/04/borg-predecessor-to-kubernetes.html &  https://research.google.com/pubs/pub43438.html
   * [docker CI/Build/Deployment] https://www.shippable.com - CI server with docker support and builds docker containers with results.
 
 * Service Discovery/Configuration 
