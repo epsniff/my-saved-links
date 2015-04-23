@@ -11,3 +11,10 @@ https://hbr.org/2015/03/why-remote-work-thrives-in-some-companies-and-fails-in-o
 
 
 http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf  -- Deep dive into how google builds large scale distributed systems.  Covers alot..
+
+
+### ElasticSearch from the bottom up
+- http://www.elastic.co/guide/en/elasticsearch/guide/current/inside-a-shard.html
+- http://www.elastic.co/guide/en/elasticsearch/guide/current/distributed-cluster.html
+- http://www.elastic.co/guide/en/elasticsearch/guide/current/distributed-search.html
+- https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
