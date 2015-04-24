@@ -11,7 +11,7 @@
 - weird go behaviour [ https://play.golang.org/p/lsPxv0QxWy ] if you have a blocking write in a select{} and some other valid "case" occurs while your write is waiting. The write is just dropped.
 - arbitrary json, anonymous structs, union like structs :) : https://play.golang.org/p/V0ulBibLGe 
 
-- just json type using MarshalJson/UnmarshalJson interface.   Doesn't work yet :( http://play.golang.org/p/tVQQxhpf7U
+- just json type using MarshalJson/UnmarshalJson interface, to support float+ Nan/Inf.   Doesn't work yet :( http://play.golang.org/p/tVQQxhpf7U
 
 - Std encoding base64 fun http://play.golang.org/p/JF1JBoJ5rs  -- encode with stripping "="
    - same but with URL encoding http://play.golang.org/p/NDCrjyeCfS
