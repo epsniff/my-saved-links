@@ -1,3 +1,9 @@
+## Enitity Resolution 
+- http://lunadong.com/ lots of stuff here.
+- http://lunadong.com/publication/incrementalRL_vldb.pdf
+- http://lunadong.com/publication/groupLinkage_www.pdf 
+
+## Random
 
 https://aphyr.com/posts/313-strong-consistency-models - consistency models
 
