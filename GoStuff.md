@@ -1,10 +1,11 @@
-### go debugger 
-http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/ https://github.com/mailgun/godebug
-https://github.com/derekparker/delve ( this one is pretty good )
+### Go Scripting engines
+#### Embeddable 
+- https://github.com/mattn/anko - Go like scripting lang.
+- https://github.com/robertkrimen/otto - javascript engine
+#### Bindings 
+- https://github.com/sbinet/go-python 
 
-### 
-
-### go in a browser 
+#### go in a browser 
 https://github.com/gopherjs/gopherjs
 
 ### CLI/Terminal helpers
@@ -19,11 +20,10 @@ https://github.com/peterh/liner - interactive helpers, like vim.
 
 
 ### Data Storage/Caching 
-https://github.com/stretchr/hoard/ - go cach'ing
-http://bazil.org/doc/ - Go FUSE filesystem framework.
+- https://github.com/stretchr/hoard/ - go cach'ing
+- http://bazil.org/doc/ - Go FUSE filesystem framework.
 
 ### Communication and Serlization 
-
 - https://github.com/grpc/grpc-go - Protobuf v3 introduces RPC :)
 - https://github.com/pquerna/ffjson faster json using structs.  Requires an extra build step.
 - https://github.com/gdamore/mangos - zmq like messaging libary in pure go.
@@ -33,9 +33,7 @@ http://bazil.org/doc/ - Go FUSE filesystem framework.
 - https://github.com/jpillora/chisel - allows you to use an HTTP connection as a TCP socket, for tunneling through a firewall. 
 
 ### DSLs, Code Gen
-
 - https://github.com/araddon/qlparser - Go parser. 
-
 - http://clipperhouse.github.io/gen/ - Go Generator example
 - design patterns in Go https://github.com/monochromegane/go_design_pattern
 
