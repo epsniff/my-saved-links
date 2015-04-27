@@ -1,11 +1,11 @@
 ### Go Scripting engines
-#### Embeddable 
+##### Embeddable 
+- https://github.com/Shopify/go-lua - [Lua](http://www.lua.org/) engine for go - 
 - https://github.com/mattn/anko - Go like scripting lang.
 - https://github.com/robertkrimen/otto - javascript engine
-#### Bindings 
+##### Bindings 
 - https://github.com/sbinet/go-python 
-
-#### go in a browser 
+##### go in a browser 
 https://github.com/gopherjs/gopherjs
 
 ### CLI/Terminal helpers
