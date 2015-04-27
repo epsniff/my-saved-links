@@ -1,7 +1,8 @@
 ## Identity Resolution / Recod Linkage
 - video - https://www.youtube.com/watch?v=cEcVIjyHfiQ
 - paper - Application of the Fellegi and Sunter alg of record matching (the classical apporch to record matching) http://arxiv.org/pdf/1205.3217.pdf 
-- paper list - http://datamining.anu.edu.au/projects/linkage-publications.html
+- paper list - http://datamining.anu.edu.au/projects/linkage-publications.html 
+ - http://datamining.anu.edu.au/publications/2005/arc-health-dm-2005-paper.pdf 
 - paper - http://www.census.gov/srd/papers/pdf/rr93-8.pdf
 - paper - http://2011.isiproceedings.org/papers/450070.pdf
 - paper - http://www.census.gov/srd/papers/pdf/rrs2006-02.pdf
