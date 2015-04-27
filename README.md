@@ -16,6 +16,7 @@ Github octocat images: https://octodex.github.com/
 - Streaming Raft as implmented in influxDB: https://github.com/influxdb/influxdb/pull/903
 
 ##### Data Science: 
+- https://github.com/fgregg/febrl - Freely extensible biomedical record linkage - 
 - https://github.com/harrisj/punkt - sentence tokenizer in Go
 - https://github.com/lytics/anomalyzer - Probabilistic anomaly detection in Go. 
 - https://github.com/drewlanenga/multibayes - Multiclass naive Bayesian document classification in Go
