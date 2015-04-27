@@ -8,7 +8,7 @@
 - paper - http://lunadong.com/publication/incrementalRL_vldb.pdf
 - paper - http://lunadong.com/publication/groupLinkage_www.pdf 
 - paper - http://www.biomedcentral.com/1472-6947/2/9
-- 
+- paper - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC140019/ markov models for record linkage
 
 ## Random
 
