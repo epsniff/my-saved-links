@@ -1,9 +1,10 @@
 ## Identity Resolution / Recod Linkage
 - video - https://www.youtube.com/watch?v=cEcVIjyHfiQ
+- paper list - http://datamining.anu.edu.au/projects/linkage-publications.html
 - paper - http://www.census.gov/srd/papers/pdf/rr93-8.pdf
 - paper - http://2011.isiproceedings.org/papers/450070.pdf
 - paper - http://www.census.gov/srd/papers/pdf/rrs2006-02.pdf
-- paper - http://lunadong.com/ lots of stuff here.
+- paper list - http://lunadong.com/ lots of stuff here.
 - paper - http://lunadong.com/publication/incrementalRL_vldb.pdf
 - paper - http://lunadong.com/publication/groupLinkage_www.pdf 
 - paper - http://www.biomedcentral.com/1472-6947/2/9
