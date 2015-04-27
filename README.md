@@ -68,18 +68,6 @@ Github octocat images: https://octodex.github.com/
 
 - https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
 
-
-### Go Scripting engines
-
-#### Embeddable 
-
-- https://github.com/mattn/anko - Go like scripting lang.
-- https://github.com/robertkrimen/otto - javascript engine
-
-#### Bindings 
-
-- https://github.com/sbinet/go-python 
-
 ### Random Go Stuff
 - https://github.com/PuerkitoBio/purell - simple go lib to normlize urls
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
