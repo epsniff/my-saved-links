@@ -15,3 +15,5 @@
 
 - Std encoding base64 fun http://play.golang.org/p/JF1JBoJ5rs  -- encode with stripping "="
    - same but with URL encoding http://play.golang.org/p/NDCrjyeCfS
+
+-capturing std output http://play.golang.org/p/fXpK0ZhXXf
