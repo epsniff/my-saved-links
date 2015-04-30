@@ -26,6 +26,9 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/bobhancock/goxmeans - xmeans
 - http://blog.sense.io/introducing-sense-a-platform-for-data-science/ 
 - https://github.com/skelterjohn/go.matrix - a good matrix math package for Go.
+- String Metric libs 
+   -  [Soundex, Metaphone](https://github.com/dotcypress/phonetics), 
+   -  [Soundex, a collection of edit-distance, more](https://github.com/xrash/smetrics) 
 
 ##### Data Storeage: 
 - Aerospike: a fast in memory database, simple to setup.  Seems to be a C,P CAP db.  It also supports a hybrid mode were only indexes are in-memory and data is stored on disk.
