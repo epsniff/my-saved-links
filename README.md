@@ -27,6 +27,7 @@ Github octocat images: https://octodex.github.com/
 - http://blog.sense.io/introducing-sense-a-platform-for-data-science/ 
 - https://github.com/skelterjohn/go.matrix - a good matrix math package for Go.
 - data/entity deduplication, similarities
+   - URLs : https://github.com/PuerkitoBio/purell - simple go lib to normlize urls 
    - Text/Name sim libs, 
       -  [Soundex, Metaphone](https://github.com/dotcypress/phonetics), 
       -  [Soundex, a collection of edit-distance, more](https://github.com/xrash/smetrics) 
@@ -76,7 +77,6 @@ Github octocat images: https://octodex.github.com/
 - https://github.com/araddon/qlparser - This is a [x]QL generic lexer parser, that should be useful for constructing Dialect Specific Lexer/Parsers.
 
 ### Random Go Stuff
-- https://github.com/PuerkitoBio/purell - simple go lib to normlize urls
 - https://github.com/buger/goterm This library provides basic building blocks for building advanced console UIs in go.
 - https://github.com/go-stack/stack/blob/344948d226e07e93dcda17055d9d78252e6d2c3f/stack.go#L48 - Example of using a custom string formater 
 - https://github.com/nsf/termbox-go - for creating ascii termials Angband anyone?
