@@ -34,4 +34,3 @@ http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf  -
 - http://www.elastic.co/guide/en/elasticsearch/guide/current/distributed-search.html
 - https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
 - https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/  Performance tuning, with a lot of good info on tuning for bulk uploads. 
--
